@@ -6,6 +6,7 @@ import { baseUrl, fetchApi } from "../utils/fetchApi";
 
 import Property from "../components/Porperty";
 
+
 const Banner = ({
   purpose,
   title1,
